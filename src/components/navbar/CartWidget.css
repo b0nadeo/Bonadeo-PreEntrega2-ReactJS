@@ -1,0 +1,9 @@
+.iconocarrito{
+    display: flex;
+    justify-content: flex-end;
+    color:darkblue
+}
+
+.numerocarrito{
+    color: white;
+}
